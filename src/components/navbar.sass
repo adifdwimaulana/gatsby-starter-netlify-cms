@@ -1,17 +1,30 @@
-.site-title
-    margin: 10px
-    font-size: 18px
-    color: #78160c
-    font-weight: 700
-    letter-spacing: 1.2
-
+.navbar-menu
+    align-items: center !important
+    padding-top: 15px
+    padding-bottom: 15px
 .navbar-item
-    margin-right: 10px
-    margin-left: 10px
+    margin-right: 15px
+    margin-left: 15px
     font-size: 18px
     font-weight: 600
     text-transform: uppercase
-    color: #807d77
+    color: #fff !important
+    opacity: 0.5
+    letter-spacing: 2px
     &:hover
-        color: #fff !important
-        text-shadow: 1px 1px 5px #fff
+        opacity: 1
+        text-shadow: 1px 1px 3px #807d77
+
+
+@media screen and (max-width: 768px)
+    .navbar-menu
+        background-color: #12141d !important
+    .navbar-item
+        font-size: 16px
+    .navbar-burger
+        span
+            background-color: #fff !important
+            height: 2px !important
+            z-index: 10
+
+

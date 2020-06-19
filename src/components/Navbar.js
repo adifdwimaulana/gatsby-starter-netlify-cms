@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import logo from '../img/site-logo.png'
 import './navbar.sass'
 
 const Navbar = class extends React.Component {
@@ -43,7 +42,6 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <h4 className="site-title">ADIF MAULANA</h4>
             </Link>
             {/* Hamburger menu */}
             <div
