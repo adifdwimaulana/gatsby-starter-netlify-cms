@@ -11,11 +11,11 @@ mainpitch:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
+  role: Front End Engineer | IoT Enthusiast    
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Passionate and self-motivated <span>Software Engineer</span> and I have 2+ years of experience in related fields of tech.
+    Currently, I work as a <span>Freelancer</span> and have done 20+ projects about Web, Mobile Apps, and IoT devices.
+    Also, I like to contribute to the <span>Open Source Community </span> to share my knowledge to developers around the world.
 intro:
   blurbs:
     - image: /img/coffee.png
